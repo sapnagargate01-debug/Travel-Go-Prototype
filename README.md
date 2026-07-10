@@ -10,5 +10,4 @@ https://www.figma.com/proto/30bmK6nUf0tM6dqk4M1Hbf/Travel-go-app?node-id=11-252&
 Figma Design 
 https://www.figma.com/design/30bmK6nUf0tM6dqk4M1Hbf/Travel-go-app?node-id=11-252&t=i6RkcqUj3DLQBUs2-1
 
-
-**travel go-mini ui ux Project-report.pdf*
+**Travel-Go-UIUX-Project-Report.pdf*
